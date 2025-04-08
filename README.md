@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/xt10101/Code_Bank_Flat/actions/workflows/node.js.yml/badge.svg)](https://github.com/xt10101/Code_Bank_Flat/actions/workflows/node.js.yml)
 ## Sparta Node Sample App
 
 ## Description
